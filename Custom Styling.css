@@ -7,3 +7,23 @@
 .wp-block-button__link {
   margin-top: 10px;
 }
+
+.wp-block-coblocks-hero {
+  display: none;
+}
+
+.wp-block-gallery-2 {
+  display: none !important;
+}
+
+#i-have-worked-with {
+  display: none;
+}
+
+#education {
+  display: none;
+}
+
+.wp-block-jetpack-layout-grid {
+  display: none;
+}
