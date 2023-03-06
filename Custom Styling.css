@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .wp-block-buttons.alignleft .wp-block-button {
+    margin-top: 10px;
+  }
+}
+
+.wp-block-button__link {
+  margin-top: 10px;
+}
