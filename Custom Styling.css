@@ -27,3 +27,18 @@
 .wp-block-jetpack-layout-grid {
   display: none;
 }
+
+@media screen and (max-width: 800px) {
+  .soaked {
+    padding-left: 30% !important;
+  }
+  .kpmg {
+    padding-left: 25% !important;
+  }
+  .nba {
+    padding-left: 17% !important;
+  }
+  .science {
+    padding-left: 30% !important;
+  }
+}
